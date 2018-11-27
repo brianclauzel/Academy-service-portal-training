@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_brian_clauze.user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>brian.clauzel</sys_created_by>
+        <sys_created_on>2018-11-27 17:57:15</sys_created_on>
+        <sys_id>947cd79ddb4e6b40c94ef4a51f961909</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_brian_clauze.user</sys_name>
+        <sys_package display_value="Brian Clauzel Service Portal Training" source="x_snc_brian_clauze">047c179ddb4e6b40c94ef4a51f9619b0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Brian Clauzel Service Portal Training">047c179ddb4e6b40c94ef4a51f9619b0</sys_scope>
+        <sys_update_name>sys_user_role_947cd79ddb4e6b40c94ef4a51f961909</sys_update_name>
+        <sys_updated_by>brian.clauzel</sys_updated_by>
+        <sys_updated_on>2018-11-27 17:57:15</sys_updated_on>
+    </sys_user_role>
+</record_update>

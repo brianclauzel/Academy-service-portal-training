@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description>How can we help you?</short_description>
+        <size>md</size>
+        <sp_column display_value="1">1e4fdb91db8e6b40c94ef4a51f96198f</sp_column>
+        <sp_widget display_value="Homepage Search">200fbd96cb20020000f8d856634c9ca1</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>brian.clauzel</sys_created_by>
+        <sys_created_on>2018-11-27 18:11:45</sys_created_on>
+        <sys_id>68cf53d1db8e6b40c94ef4a51f961945</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Welcome Home</sys_name>
+        <sys_package display_value="Brian Clauzel Service Portal Training" source="x_snc_brian_clauze">047c179ddb4e6b40c94ef4a51f9619b0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Brian Clauzel Service Portal Training">047c179ddb4e6b40c94ef4a51f9619b0</sys_scope>
+        <sys_update_name>sp_instance_68cf53d1db8e6b40c94ef4a51f961945</sys_update_name>
+        <sys_updated_by>brian.clauzel</sys_updated_by>
+        <sys_updated_on>2018-11-27 18:44:41</sys_updated_on>
+        <title>Welcome Home</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"typeahead_search": {
+		"value": "How can we help you?",
+		"displayValue": "How can we help you?"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=68cf53d1db8e6b40c94ef4a51f961945"/>
+</record_update>

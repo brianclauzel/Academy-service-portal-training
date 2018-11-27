@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="idea_description" label="Idea Description" language="en" table="x_snc_brian_clauze_idea">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>idea_description</element>
+            <help/>
+            <hint/>
+            <label>Idea Description</label>
+            <language>en</language>
+            <name>x_snc_brian_clauze_idea</name>
+            <plural>Idea Descriptions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>brian.clauzel</sys_created_by>
+            <sys_created_on>2018-11-27 18:05:11</sys_created_on>
+            <sys_id>604e5f11db8e6b40c94ef4a51f9619c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Idea Description</sys_name>
+            <sys_package display_value="Brian Clauzel Service Portal Training" source="x_snc_brian_clauze">047c179ddb4e6b40c94ef4a51f9619b0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Brian Clauzel Service Portal Training">047c179ddb4e6b40c94ef4a51f9619b0</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_brian_clauze_idea_idea_description_en</sys_update_name>
+            <sys_updated_by>brian.clauzel</sys_updated_by>
+            <sys_updated_on>2018-11-27 18:05:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

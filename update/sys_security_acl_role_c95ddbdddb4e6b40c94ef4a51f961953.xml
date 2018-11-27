@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>brian.clauzel</sys_created_by>
+        <sys_created_on>2018-11-27 18:01:07</sys_created_on>
+        <sys_id>c95ddbdddb4e6b40c94ef4a51f961953</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_brian_clauze_idea.x_snc_brian_clauze.user</sys_name>
+        <sys_package display_value="Brian Clauzel Service Portal Training" source="x_snc_brian_clauze">047c179ddb4e6b40c94ef4a51f9619b0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Brian Clauzel Service Portal Training">047c179ddb4e6b40c94ef4a51f9619b0</sys_scope>
+        <sys_security_acl display_value="x_snc_brian_clauze_idea">415ddbdddb4e6b40c94ef4a51f96194f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c95ddbdddb4e6b40c94ef4a51f961953</sys_update_name>
+        <sys_updated_by>brian.clauzel</sys_updated_by>
+        <sys_updated_on>2018-11-27 18:01:07</sys_updated_on>
+        <sys_user_role display_value="x_snc_brian_clauze.user" name="x_snc_brian_clauze.user">947cd79ddb4e6b40c94ef4a51f961909</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

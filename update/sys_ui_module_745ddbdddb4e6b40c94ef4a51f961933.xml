@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Brian Clauzel Service Portal Training">fc5ddbdddb4e6b40c94ef4a51f961930</application>
+        <filter/>
+        <name>Ideas</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_brian_clauze.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>brian.clauzel</sys_created_by>
+        <sys_created_on>2018-11-27 18:01:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>745ddbdddb4e6b40c94ef4a51f961933</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ideas</sys_name>
+        <sys_package display_value="Brian Clauzel Service Portal Training" source="x_snc_brian_clauze">047c179ddb4e6b40c94ef4a51f9619b0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Brian Clauzel Service Portal Training">047c179ddb4e6b40c94ef4a51f9619b0</sys_scope>
+        <sys_update_name>sys_ui_module_745ddbdddb4e6b40c94ef4a51f961933</sys_update_name>
+        <sys_updated_by>brian.clauzel</sys_updated_by>
+        <sys_updated_on>2018-11-27 18:01:06</sys_updated_on>
+        <table>x_snc_brian_clauze_idea</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
