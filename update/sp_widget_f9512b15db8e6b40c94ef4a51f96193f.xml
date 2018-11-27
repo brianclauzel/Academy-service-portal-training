@@ -26,17 +26,17 @@
         <sys_created_by>brian.clauzel</sys_created_by>
         <sys_created_on>2018-11-27 18:18:40</sys_created_on>
         <sys_id>f9512b15db8e6b40c94ef4a51f96193f</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Academy Hello World</sys_name>
         <sys_package display_value="Brian Clauzel Service Portal Training" source="x_snc_brian_clauze">047c179ddb4e6b40c94ef4a51f9619b0</sys_package>
         <sys_policy/>
         <sys_scope display_value="Brian Clauzel Service Portal Training">047c179ddb4e6b40c94ef4a51f9619b0</sys_scope>
         <sys_update_name>sp_widget_f9512b15db8e6b40c94ef4a51f96193f</sys_update_name>
         <sys_updated_by>brian.clauzel</sys_updated_by>
-        <sys_updated_on>2018-11-27 18:29:44</sys_updated_on>
+        <sys_updated_on>2018-11-27 18:49:24</sys_updated_on>
         <template><![CDATA[<div>
   <h1>
-    {{ c.options.greeting }} World
+    {{ c.options.greeting }} World World
   </h1>
 </div>]]></template>
     </sp_widget>
